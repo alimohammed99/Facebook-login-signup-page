@@ -1,0 +1,330 @@
+*{
+	margin-left:0px;
+	margin-right:0px;
+}
+
+
+#ourfirstheading{
+	background-color:rgb(51,51,153);
+	color:white;
+	padding:10px;
+	margin-left:0px;
+	font-size:34px;
+}
+
+
+#firstpara{
+	background-color:white;
+	color:black;
+	margin-left:10px;
+}
+
+
+#body{
+	margin-left:0px;
+	background-color:rgb(192,192,192);
+	padding-left:30px;
+	padding-bottom:1px;
+}
+
+
+#firstinput{
+	padding-right:300px;
+	padding-bottom:15px;
+}
+
+
+span{
+	color:rgb(51,51,153);
+	cursor:pointer;
+}
+
+
+#bottominput{
+	margin-left:15%;
+	background-color:blue;
+}
+
+
+#signup{
+   margin-left:9%;
+   margin-right:77%;
+   background-color:blue;
+   padding:10px;
+   padding-left:4.7%;
+}
+
+
+#signup a:link{
+color:white;
+text-decoration:none;
+}
+
+
+#signup:hover{
+	background-color:purple;
+	text-decoration:underline;
+	color:red;
+	padding-top:1.5%;
+	padding-bottom:1.5%;
+}
+
+
+#already{
+margin-left:9.7%;
+}
+
+
+#already a:link{
+	color:rgb(51,51,153);
+	text-decoration:none;
+}
+
+
+#already a:hover{
+   color:red;
+}
+
+
+#ourfooter{
+	color:white;
+	background-color:black;
+	padding-left:20px;
+	padding-top:3px;
+	padding-bottom:3px;
+}
+
+
+#lastspan{
+	color:white;
+	border:1px solid white;
+	padding:5px;
+}
+
+
+#lastpara{
+	font-weight:bold;
+	font-size:17px;
+}
+
+
+
+
+
+
+
+
+
+
+                                                               /*The login page*/
+                                                               /*The login page*/
+                                                               /*The login page*/
+
+
+
+
+
+
+
+
+
+#content{
+	margin-left:0px;
+	margin-right:0px;
+}
+
+
+#firstheading{
+	background-color:rgb(51,51,153);
+	color:white;
+	padding:10px;
+	margin-left:0px;
+	font-size:34px;
+	margin-bottom:0px;
+}
+
+
+#headerspan{
+	background-color:green;
+	padding:5px;
+	color:white;
+	font-size:23px;
+}
+
+
+#firstheading a:link{
+	text-decoration:none;
+}
+
+
+#firstheading a:hover{
+	text-decoration:underline;
+	color:tomato; 
+}
+
+
+#smartphone{
+	padding-left:5px;
+}
+
+
+#firstspan a:link{
+	text-decoration:none;
+}
+
+
+#android{
+	border-bottom:2.5px solid yellow;
+	border-top:2.5px solid yellow;
+	padding:5px;
+	padding-top:5px;
+	padding-bottom:10px;
+}
+
+
+#body2{
+	margin-left:0px;
+	background-color:rgb(192,192,192);
+	padding-left:30px;
+	padding-bottom:1px;
+	padding-top:15px;
+}
+
+
+#input1{
+    padding-right:300px;
+	padding-bottom:15px;
+}
+
+
+#input2{
+	padding-right:305px;
+	padding-bottom:15px;
+}
+
+
+#login{
+   margin-left:0%;
+   margin-right:65.9%;
+   background-color:blue;
+   padding:10px;
+   padding-left:13.8%;
+}
+
+
+#login a:link{
+color:white;
+text-decoration:none;
+}
+
+
+#login a:hover{
+	text-decoration:underline;
+}
+
+
+#or{
+	margin-left:15%
+}
+
+
+#newacct{
+	background-color:green;
+	padding:25px;
+	margin-right:77%;
+	margin-left:9%;
+}
+
+
+#newacct a:link{
+	color:white;
+    text-decoration:none;
+}
+
+
+#newacct:hover{
+	text-decoration:underline;
+	background-color:tomato;
+}
+
+
+#forgotten{
+	color:blue;
+	margin-left:11.1%;
+}
+
+
+#forgotten a:link{
+	color:blue;
+	text-decoration:none;
+}
+
+
+#forgotten a:hover{
+	color:red;
+	text-decoration:underline;
+}
+
+
+#me{
+	margin-left:0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
